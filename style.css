@@ -340,7 +340,8 @@ footer{
     font-size: 16px;
     line-height: 26px;
     text-align: center;
-    margin-left: -30px;
+    margin-left: -50px;
+    width: 340px;
   }
 
   .container-3{
@@ -375,7 +376,7 @@ footer{
     line-height: 28px;
     text-align: center;
     width: 180px;
-    margin-left: 20%;
+    margin-left: 23%;
   }
   
   .container-3 p{
@@ -384,7 +385,7 @@ footer{
     color: #7B8BAD;
     margin-top: 30px;
     text-align: center;
-    width: 310px;
+    width: 340px;
   }
 }
 
