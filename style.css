@@ -67,6 +67,27 @@ img {
   justify-content: space-between;
 }
 
+.ground{
+  height: 240px;
+  width: 165px;
+  position: absolute;
+  background-color: #E8EFF2;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  right: 0%;
+}
+
+.grounds{
+  height: 240px;
+  width: 165px;
+  position: absolute;
+  background-color: #E8EFF2;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  left: 0%;
+  margin-top: 240px;
+}
+
 
 .content{
   width: 445px;
@@ -246,6 +267,10 @@ footer{
     padding-left: 15px;
   }
 
+  .grounds, .ground{
+    display: none;
+  }
+
   .container{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -397,6 +422,11 @@ footer{
     width: 689px;
     margin: auto;
   }
+
+  .grounds, .ground{
+    display: none;
+  }
+  
 
   .image{
     background: url(./assets/tablet/image-keyboard.jpg);
