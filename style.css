@@ -69,7 +69,7 @@ img {
 
 .ground{
   height: 240px;
-  width: 165px;
+  width: 90px;
   position: absolute;
   background-color: #E8EFF2;
   border-top-left-radius: 20px;
@@ -79,7 +79,7 @@ img {
 
 .grounds{
   height: 240px;
-  width: 165px;
+  width: 90px;
   position: absolute;
   background-color: #E8EFF2;
   border-top-right-radius: 20px;
